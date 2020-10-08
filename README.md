@@ -8,7 +8,7 @@ Collection of tips and tutorials on IBM Cloud to help you get started quickly wi
 Provides over 190 services that allow you to build and customize your applications. The catalog provides free services in networking, containers, computing, analytics, machine learning, blockchain, databases, devops, internet of things, security and mobile. You can use the dashboard or the CLI (Command Line Interface) to create and work with these services. 
  
 ## How do I sign up?
-Sign up for a **free** IBM Cloud account [here](https://ibm.biz/BdqTjv)
+Sign up for a **free** IBM Cloud account [here](http://ibm.biz/BdqwRa)
 
 ## Is it free?
 A lot services on IBM Cloud have the lite tier, that you can use with your free IBM Cloud account. Lite accounts 
@@ -21,8 +21,8 @@ In the Slack workspace, you’ll be able to find other participants, join or bui
 **[Join the Slack](https://callforcode.typeform.com/to/DtKe6yTF)**
 
 **Please join the following channels in the workspace:**
-- #EMEA-student-challenge 
-- #EMEA-student-teambuilding
+- #asu-hackathon
+- #asu-teambuilding
 
 ## Explore the IBM Academic Initiative 
 [Register on our IBM Academic Initiative website](www.ibm.com/academic) and get access to select IBM resources for classroom (teaching / learning) and non-commercial research at participating accredited academic institutions.
